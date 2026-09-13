@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix Remix Remix Remix NIXT Car Wash \u0026 Care f88899",
+  "description": "منصة نيكست المتكاملة لخدمات غسيل وتلميع السيارات و غسيل السجاد و الكنب المتنقلة، المتجر الإلكتروني، وإدارة الحجوزات ولوحة التحكم الإدارية",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
